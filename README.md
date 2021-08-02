@@ -2,4 +2,4 @@ This assignment is being handed in after originally being "skipped." Now that I 
 
 This assignment uses javascript and jQuery API to show the time with Moment.js. 
 
-<img src="">
+<img src="./assets/images/Workday Scheduler Demo.png">
